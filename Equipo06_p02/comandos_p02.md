@@ -32,3 +32,10 @@ ERR486827_1.fasta con 136550 secuencias.
 **Respuesta 3:**
 
 # Parte III.
+Comandos para descomprimir y dar permisos de ejecutable. 
+Colocandonos en la carpeta del  fichero ejecutable.
+..
+unzip fastq_v0.11.9.zip
+chmod +x fastqc.
+..
+
